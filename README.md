@@ -12,7 +12,7 @@
 [Reanimated]: https://github.com/software-mansion/react-native-reanimated
 [React Native Gesture Handler]: https://github.com/software-mansion/react-native-gesture-handler
 [React Native Skia]: https://github.com/Shopify/react-native-skia
-[$Q Recognizer]: https://depts.washington.edu/acelab/proj/dollar/qdollar.html
+[$Q Recognizer]: https://depts.washington.edu/acelab/proj/dollar/qdollar.html 
 
 
 <div align="center">
